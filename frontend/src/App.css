@@ -1,0 +1,13 @@
+.navbar-brand,
+.nav-link{
+    color: white !important;
+}
+.footer{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.navbar{
+    background-color: brown !important;
+}
